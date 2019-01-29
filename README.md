@@ -14,6 +14,7 @@ In the project directory, you can run:
 4) Validate id for author to see if they exist
 5) Show most recent post on top
 
+## Application screens
 
 localhost:3000 (all posts)
 
