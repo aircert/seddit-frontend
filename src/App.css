@@ -22,6 +22,12 @@
   color: #61dafb;
 }
 
+.text-field {
+  height: 38px;
+  margin-top: 22px;
+  min-width: 40%; 
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
